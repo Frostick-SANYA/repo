@@ -9,3 +9,4 @@ another test code
 testing some feature
 >>>>>>> test_feature
 adding new cool feature
+fixing bug in previous feature
